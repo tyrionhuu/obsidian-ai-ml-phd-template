@@ -9,21 +9,24 @@ This vault is built around traceable research work. A useful note should make it
 
 ## Folder Roles
 
-| Folder | Purpose |
-| --- | --- |
-| `00 Inbox` | Fast capture before sorting |
-| `01 Concepts` | Concepts, algorithms, math, and implementation notes |
-| `02 Literature` | Paper notes and citation-linked reading |
-| `03 Meetings` | Advisor, group, collaboration, and committee meetings |
-| `04 Experiments` | Datasets, models, plans, runs, evaluations, ablations, error analysis |
-| `10 Ideas` | Early ideas before they become projects |
-| `20 Research Log` | Daily research logs |
-| `30 Manuscripts` | Thesis chapters, papers, outlines, reviews, rebuttals |
-| `40 Projects` | Project hub notes that link everything together |
-| `50 Reading Lists` | Reading plans by area or project |
-| `60 Code Systems` | Repositories, infrastructure, pipelines, and tool notes |
-| `88 Templates/Vault Templates` | Active note templates |
-| `99 Attachments` | PDFs, figures, images, and exported artifacts |
+| Folder                         | Purpose                                                               |
+| ------------------------------ | --------------------------------------------------------------------- |
+| `00 Inbox`                     | Fast capture before sorting                                           |
+| `01 Concepts`                  | Concepts, algorithms, math, and implementation notes                  |
+| `02 Literature`                | Paper notes and citation-linked reading                               |
+| `03 Ideas`                     | Early ideas before they become projects                               |
+| `04 Projects`                  | Project hub notes that link everything together                       |
+| `05 Experiments`               | Datasets, models, plans, runs, evaluations, ablations, error analysis |
+| `06 Results`                   | Distilled findings, result summaries, and figure-ready outputs        |
+| `07 Meetings`                  | Advisor, group, collaboration, and committee meetings                 |
+| `08 Manuscripts`               | Thesis chapters, papers, outlines, reviews, rebuttals                 |
+| `09 Presentations`             | Talks, posters, conference notes, and event material                  |
+| `10 Teaching`                  | Lectures, training, and student supervision                           |
+| `20 Research Log`              | Daily research logs                                                   |
+| `70 People`                    | Advisor, collaborator, and contact notes                              |
+| `80 Admin and Funding`         | Funding, admin, forms, and bureaucracy                                |
+| `88 Templates/Vault Templates` | Active note templates                                                 |
+| `99 Attachments`               | PDFs, figures, images, and exported artifacts                         |
 
 ## Naming Suggestions
 
@@ -43,8 +46,8 @@ Use names that sort well and make backlinks readable:
 
 1. Capture rough notes in `00 Inbox`.
 2. Write paper notes in `02 Literature` using `02_.paper`.
-3. Convert promising thoughts into `10 Ideas` using `05_.research_idea`.
-4. Create a project hub in `40 Projects` using `01_.research_project`.
+3. Convert promising thoughts into `03 Ideas` using `05_.research_idea`.
+4. Create a project hub in `04 Projects` using `01_.research_project`.
 5. Turn ideas into hypotheses and experiment plans.
 6. Record every run with commit, command, config, dataset version, and seeds.
 7. Summarize results in project notes and manuscript outlines.

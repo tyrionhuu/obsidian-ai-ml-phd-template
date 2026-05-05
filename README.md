@@ -12,8 +12,13 @@ papers -> ideas -> hypotheses -> experiments -> results -> manuscripts
 00 Inbox/
 01 Concepts/
 02 Literature/
-03 Meetings/
-04 Experiments/
+  01 Reading Lists/
+03 Ideas/
+04 Projects/
+  01 Side Projects/
+  02 Collaborations/
+  03 Proposals and Writing/
+05 Experiments/
   01 Questions and Hypotheses/
   02 Datasets/
   03 Model Designs/
@@ -22,25 +27,28 @@ papers -> ideas -> hypotheses -> experiments -> results -> manuscripts
   06 Ablations/
   07 Error Analysis/
   08 Reproducibility/
-05 Presentations/
-06 Conferences and Events/
-07 Training/
-08 Admin and Funding/
-09 Student Supervision/
-10 Ideas/
-100 People/
-20 Research Log/
-30 Manuscripts/
+  09 Code and Systems/
+06 Results/
+07 Meetings/
+  01 Supervisor Meetings/
+  02 Group Meetings/
+  03 Collaboration Meetings/
+  04 Research Center Meetings/
+  05 Faculty Meetings/
+  06 Supervision Meetings/
+  07 Side Project Meetings/
+08 Manuscripts/
   01 Thesis/
   02 Papers/
-40 Projects/
-  01 Side Projects/
-  02 Collaborations/
-  03 Proposals and Writing/
-50 Lectures/
-50 Reading Lists/
-60 Code Systems/
-60 Teaching and Supervision/
+09 Presentations/
+  01 Conferences and Events/
+10 Teaching/
+  01 Lectures/
+  02 Training/
+  03 Student Supervision/
+20 Research Log/
+70 People/
+80 Admin and Funding/
 88 Templates/
   Vault Templates/
 99 Attachments/
