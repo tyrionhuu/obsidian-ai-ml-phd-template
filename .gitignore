@@ -9,12 +9,15 @@
 .trash/
 
 # Local notes/content that should not ship with the template
-20 Research Log/*.md
-!20 Research Log/.gitkeep
-!20 Research Log/20 Research Log.md
+20-research-log/*.md
+!20-research-log/.gitkeep
+!20-research-log/20-research-log.md
+70-people/*.md
+!70-people/70-people.md
+!70-people/person-my-supervisor.md
 Welcome.md
 Untitled.canvas
 
 # Source archives kept locally for reference, not redistributed
-_.template_source_archive/
-88 Templates/lifesciences_archive/
+template-source-archive/
+88-templates/lifesciences-archive/
