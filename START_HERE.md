@@ -4,6 +4,8 @@ This vault is organized around the research loop for an AI/ML PhD:
 
 papers -> ideas -> hypotheses -> experiments -> results -> manuscripts
 
+For the full vault reference, see [[_ Vault Guide and Constants/00Main_Guide|00Main_Guide]] and [[_ Vault Guide and Constants/01template_index|01template_index]].
+
 ## Main Folders
 
 - [[00 Inbox/00 Inbox|00 Inbox]] for quick capture

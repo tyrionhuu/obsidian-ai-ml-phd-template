@@ -86,7 +86,7 @@ The vault includes Obsidian settings for:
 
 - Templates folder: `88 Templates/Vault Templates`
 - Daily notes folder: `20 Research Log`
-- Daily note template: `88 Templates/Vault Templates/00_.daily_research_log`
+- Daily note template: [00_.daily_research_log.md](<88 Templates/Vault Templates/00_.daily_research_log.md>)
 
 Open this folder as an Obsidian vault, then use the Templates core plugin to insert templates.
 
@@ -96,4 +96,4 @@ This AI/ML PhD vault was adapted from a life-sciences Obsidian vault structure o
 
 Original article: <https://www.lsilvam.xyz/posts/obsidian-template/>
 
-See `CREDITS.md` for more detail.
+See [CREDITS.md](CREDITS.md) for more detail.
