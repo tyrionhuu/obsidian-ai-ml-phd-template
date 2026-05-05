@@ -1,6 +1,6 @@
 {
-  "folder": "20research_log",
+  "folder": "20 Research Log",
   "autorun": true,
   "format": "YYYYMMDD",
-  "template": "88templates/vault_templates/00_.daily_research_log"
+  "template": "88 Templates/vault_templates/00_.daily_research_log"
 }

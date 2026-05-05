@@ -12,17 +12,17 @@ This vault is built around traceable research work. A useful note should make it
 | Folder | Purpose |
 | --- | --- |
 | `00inbox` | Fast capture before sorting |
-| `01concepts_methods_theory` | Concepts, algorithms, math, and implementation notes |
+| `01 Concepts` | Concepts, algorithms, math, and implementation notes |
 | `02literature` | Paper notes and citation-linked reading |
 | `03meetings` | Advisor, group, collaboration, and committee meetings |
-| `04research_experiments` | Datasets, models, plans, runs, evaluations, ablations, error analysis |
+| `04 Experiments` | Datasets, models, plans, runs, evaluations, ablations, error analysis |
 | `10ideas` | Early ideas before they become projects |
-| `20research_log` | Daily research logs |
+| `20 Research Log` | Daily research logs |
 | `30manuscripts` | Thesis chapters, papers, outlines, reviews, rebuttals |
 | `40projects` | Project hub notes that link everything together |
 | `50reading_lists` | Reading plans by area or project |
 | `60code_systems` | Repositories, infrastructure, pipelines, and tool notes |
-| `88templates/vault_templates` | Active note templates |
+| `88 Templates/vault_templates` | Active note templates |
 | `99attachments` | PDFs, figures, images, and exported artifacts |
 
 ## Naming Suggestions

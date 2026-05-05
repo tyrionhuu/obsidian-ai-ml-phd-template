@@ -10,10 +10,10 @@ papers -> ideas -> hypotheses -> experiments -> results -> manuscripts
 
 ```text
 00inbox/
-01concepts_methods_theory/
+01 Concepts/
 02literature/
 03meetings/
-04research_experiments/
+04 Experiments/
   01questions_hypotheses/
   02datasets/
   03model_designs/
@@ -28,12 +28,12 @@ papers -> ideas -> hypotheses -> experiments -> results -> manuscripts
 08admin_funding/
 09student_supervision/
 10ideas/
-20research_log/
+20 Research Log/
 30manuscripts/
 40projects/
 50reading_lists/
 60code_systems/
-88templates/
+88 Templates/
   vault_templates/
 99attachments/
 _.vault_guide_and_constants/
@@ -41,7 +41,7 @@ _.vault_guide_and_constants/
 
 ## Templates
 
-The active templates live in `88templates/vault_templates`:
+The active templates live in `88 Templates/vault_templates`:
 
 - daily research log
 - research project
@@ -68,9 +68,9 @@ The active templates live in `88templates/vault_templates`:
 
 The vault includes Obsidian settings for:
 
-- Templates folder: `88templates/vault_templates`
-- Daily notes folder: `20research_log`
-- Daily note template: `88templates/vault_templates/00_.daily_research_log`
+- Templates folder: `88 Templates/vault_templates`
+- Daily notes folder: `20 Research Log`
+- Daily note template: `88 Templates/vault_templates/00_.daily_research_log`
 
 Open this folder as an Obsidian vault, then use the Templates core plugin to insert templates.
 
@@ -81,4 +81,3 @@ This AI/ML PhD vault was adapted from a life-sciences Obsidian vault structure o
 Original article: <https://www.lsilvam.xyz/posts/obsidian-template/>
 
 See `CREDITS.md` for more detail.
-

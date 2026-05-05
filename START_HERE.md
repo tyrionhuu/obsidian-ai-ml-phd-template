@@ -7,17 +7,17 @@ papers -> ideas -> hypotheses -> experiments -> results -> manuscripts
 ## Main Folders
 
 - [[00inbox]] for quick capture
-- [[01concepts_methods_theory]] for methods, theory, and technical concepts
+- [[01 Concepts]] for methods, theory, and technical concepts
 - [[02literature]] for paper notes
 - [[03meetings]] for advisor, group, and collaboration meetings
-- [[04research_experiments]] for datasets, models, runs, evaluations, ablations, and error analysis
+- [[04 Experiments]] for datasets, models, runs, evaluations, ablations, and error analysis
 - [[10ideas]] for early research ideas
-- [[20research_log]] for daily research logs
+- [[20 Research Log]] for daily research logs
 - [[30manuscripts]] for papers, thesis material, and review responses
 - [[40projects]] for project hub notes
 - [[50reading_lists]] for area-based reading plans
 - [[60code_systems]] for codebase and infrastructure notes
-- [[88templates/vault_templates]] for active note templates
+- [[88 Templates/vault_templates]] for active note templates
 
 ## Suggested Workflow
 
