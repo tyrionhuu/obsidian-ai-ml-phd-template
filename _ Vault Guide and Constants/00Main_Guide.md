@@ -11,19 +11,19 @@ This vault is built around traceable research work. A useful note should make it
 
 | Folder | Purpose |
 | --- | --- |
-| `00inbox` | Fast capture before sorting |
+| `00 Inbox` | Fast capture before sorting |
 | `01 Concepts` | Concepts, algorithms, math, and implementation notes |
-| `02literature` | Paper notes and citation-linked reading |
-| `03meetings` | Advisor, group, collaboration, and committee meetings |
+| `02 Literature` | Paper notes and citation-linked reading |
+| `03 Meetings` | Advisor, group, collaboration, and committee meetings |
 | `04 Experiments` | Datasets, models, plans, runs, evaluations, ablations, error analysis |
-| `10ideas` | Early ideas before they become projects |
+| `10 Ideas` | Early ideas before they become projects |
 | `20 Research Log` | Daily research logs |
-| `30manuscripts` | Thesis chapters, papers, outlines, reviews, rebuttals |
-| `40projects` | Project hub notes that link everything together |
-| `50reading_lists` | Reading plans by area or project |
-| `60code_systems` | Repositories, infrastructure, pipelines, and tool notes |
-| `88 Templates/vault_templates` | Active note templates |
-| `99attachments` | PDFs, figures, images, and exported artifacts |
+| `30 Manuscripts` | Thesis chapters, papers, outlines, reviews, rebuttals |
+| `40 Projects` | Project hub notes that link everything together |
+| `50 Reading Lists` | Reading plans by area or project |
+| `60 Code Systems` | Repositories, infrastructure, pipelines, and tool notes |
+| `88 Templates/Vault Templates` | Active note templates |
+| `99 Attachments` | PDFs, figures, images, and exported artifacts |
 
 ## Naming Suggestions
 
@@ -41,10 +41,10 @@ Use names that sort well and make backlinks readable:
 
 ## Research Loop
 
-1. Capture rough notes in `00inbox`.
-2. Write paper notes in `02literature` using `02_.paper`.
-3. Convert promising thoughts into `10ideas` using `05_.research_idea`.
-4. Create a project hub in `40projects` using `01_.research_project`.
+1. Capture rough notes in `00 Inbox`.
+2. Write paper notes in `02 Literature` using `02_.paper`.
+3. Convert promising thoughts into `10 Ideas` using `05_.research_idea`.
+4. Create a project hub in `40 Projects` using `01_.research_project`.
 5. Turn ideas into hypotheses and experiment plans.
 6. Record every run with commit, command, config, dataset version, and seeds.
 7. Summarize results in project notes and manuscript outlines.
