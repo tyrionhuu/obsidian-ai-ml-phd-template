@@ -1,0 +1,20 @@
+.DS_Store
+*/.DS_Store
+
+# Local Obsidian state
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Local notes/content that should not ship with the template
+20research_log/*.md
+!20research_log/.gitkeep
+Welcome.md
+Untitled.canvas
+
+# Source archives kept locally for reference, not redistributed
+_.template_source_archive/
+88templates/lifesciences_archive/
+
