@@ -11,6 +11,7 @@
 # Local notes/content that should not ship with the template
 20 Research Log/*.md
 !20 Research Log/.gitkeep
+!20 Research Log/20 Research Log.md
 Welcome.md
 Untitled.canvas
 
